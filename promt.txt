@@ -1,0 +1,1 @@
+I am trying to write a python program that does the following:  Analyzes two different colours, that user choses on a color palette in GUI, and then compares their appearance by a "color mathing table", than outputs the procentage of similarity between them in GUI.
